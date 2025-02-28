@@ -1,4 +1,4 @@
-This is a Hangman game implemented in Java with both Graphical User Interface (GUI) using Swing & AWT and a command-line interface (CLI) version. Players try to guess a hidden word by guessing letters, with incorrect guesses gradually building a Hangman figure.
+This is a Hangman game implemented in Java with both Graphical User Interface (GUI) and a command-line interface (CLI) version. Players try to guess a hidden word by guessing letters, with incorrect guesses gradually building a Hangman figure.
 
 Features
 
