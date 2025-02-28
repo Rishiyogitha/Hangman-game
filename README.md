@@ -3,7 +3,11 @@ This is a Hangman game implemented in Java with both Graphical User Interface (G
 Features
 
 ✅ Graphical User Interface (GUI)
+
 ✅ Random word selection from a predefined list
+
 ✅ Tracks correct & incorrect guesses with visual feedback
+
 ✅ Replay option after game completion
+
 ✅ Real-time hangman drawing in the GUI version
